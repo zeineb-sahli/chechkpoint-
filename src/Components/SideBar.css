@@ -1,0 +1,41 @@
+.side{
+    background-color: #BDD9F2;
+    width:300px ; 
+    position:fixed; 
+    top:0;
+    left: 0;
+    bottom: 0;
+    padding-top: 200px ;  
+    margin-top: 50px;
+
+}
+.title{
+    color:#023373 ;
+  
+
+    
+}
+.title:hover{
+    background-color: white; 
+    color: #a73535 ;
+
+
+
+}
+
+.bloc{
+    display:  flex;
+    justify-content: space-around;
+    align-items:  center; 
+    flex-direction: row-reverse ;
+}
+
+.bloc:hover {
+cursor: pointer;
+background-color: white;
+color: black; 
+
+
+
+}
+
